@@ -7,5 +7,5 @@ rescue LoadError
   Bundler.require(:default, :development)
 end
 
-require 'vagrant_plugin/plugin'
-require 'vagrant_plugin/command'
+require 'vagrant-plugin/plugin'
+require 'vagrant-plugin/command'
