@@ -11,6 +11,6 @@ Gem::Specification.new do |s|
   s.files           = `git ls-files`.split($\)
   s.executables     = s.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
   s.require_paths   = ['lib']
-  s.homepage        = 'https://github.com/Grace-Andrews/vagrant_plugin'
+  s.homepage        = 'https://github.com/Grace-Andrews/vagrant-plugin'
   s.license         = 'GNU'
 end
