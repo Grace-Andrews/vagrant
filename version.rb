@@ -1,6 +1,6 @@
-#lib/vagrant-ls/version.rb
+#lib/vagrant-plugin/version.rb
 module Vagrant
-    module Ls
+    module plugin
         VERSION = '0.0.1'
     end
 end
