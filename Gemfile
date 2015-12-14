@@ -6,7 +6,7 @@ group :development do
 end
 
 group :plugins do
-  gem "vagrant_plugin", path: "."
+  gem "vagrant", path: "."
 end
 
 # gem "rails"
