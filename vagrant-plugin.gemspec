@@ -1,8 +1,8 @@
-require File.expand_path('../lib/vagrant-pluign/version', __FILE__)
+require File.expand_path('../lib/vagrant-list/version', __FILE__)
 
 Gem::Specification.new do |s|
-  s.name            = 'vagrant-plugin'
-  s.version         = Vagrant::Ls::VERSION
+  s.name            = 'vagrant-list'
+  s.version         = Vagrant::List::VERSION
   s.date            = '2015-12-13'
   s.summary         = "List all vms"
   s.description     = "A simple vagrant plugin for tse environment"
