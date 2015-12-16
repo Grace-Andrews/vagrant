@@ -2,9 +2,9 @@
 source "https://rubygems.org"
 ruby "2.1.5"
 group :development do
-  gem "vagrant"#, git: "git@github.com:Grace-Andrews/vagrant.git"
+  gem "vagrant"#, git: "git@github.com:Grace-Andrews/vagrant-configs.git"
 end
 
 #group :plugins do
-#  gem "vagrant-plugin", path: "."
+#  gem "vagrant-configs", path: "."
 #end
